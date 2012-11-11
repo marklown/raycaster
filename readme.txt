@@ -1,0 +1,1 @@
+A simple raycast rendering demo in c++ using SDL for windowing and event handling.
